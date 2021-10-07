@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package vpipe;
+
+message UInt64 {
+  uint64 data = 1;
+}
+
